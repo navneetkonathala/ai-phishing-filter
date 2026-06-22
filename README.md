@@ -2,11 +2,16 @@
 A Python-based cybersecurity tool that scans emails and text files for phishing/spam indicators and flags suspicious content with a detailed risk report.
 ---
 📌 Features
-✅ Scans text or `.txt` email files for 60+ phishing keywords
+✅ Scans text or `.txt` email files for 60+ phishing keywords 
+
 ✅ Detects and analyzes suspicious URLs (HTTP, shortened links, fake domains)
+
 ✅ Assigns a risk score with 5 levels: Safe → Critical
+
 ✅ Generates a detailed terminal report + saves a JSON report
+
 ✅ Works on Windows, macOS, and Linux
+
 ✅ No external libraries required — uses only Python built-ins
 ---
 🚀 Quick Start
@@ -28,11 +33,17 @@ python phishing_filter.py your_email.txt
 ---
 📊 Risk Levels
 Score	Risk Level	Meaning
+
 0	✅ SAFE	No indicators found
+
 1–5	🟡 LOW RISK	Minor flags — review cautiously
+
 6–15	🟠 MEDIUM RISK	Multiple red flags — be careful
+
 16–30	🔴 HIGH RISK	Strong phishing indicators
+
 31+	🚨 CRITICAL	Almost certainly a phishing attempt
+
 ---
 📁 Project Structure
 ```
