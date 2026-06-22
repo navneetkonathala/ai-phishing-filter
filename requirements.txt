@@ -1,0 +1,10 @@
+# AI-Powered Phishing Filter - Requirements
+# No external libraries needed! This project uses only Python built-in modules.
+# Built-in modules used:
+#   - os       (file handling)
+#   - re       (regular expressions / pattern matching)
+#   - sys      (command-line arguments)
+#   - json     (saving reports)
+#   - datetime (timestamps)
+#
+# Required Python version: 3.7+

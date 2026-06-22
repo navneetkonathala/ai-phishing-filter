@@ -1,0 +1,14 @@
+Subject: Meeting tomorrow at 10am
+
+Hi Sarah,
+
+Hope you're doing well! Just a quick reminder that we have our team
+meeting tomorrow at 10am in Conference Room B.
+
+Please bring your notes from the last sprint. We'll be reviewing
+the project timeline and planning next steps.
+
+Let me know if you have any questions.
+
+Best regards,
+John

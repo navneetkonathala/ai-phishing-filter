@@ -1,0 +1,25 @@
+Subject: URGENT: Your Amazon Account Has Been Suspended!
+
+Dear Account Holder,
+
+We have detected unauthorized access to your Amazon account.
+Your account will be closed immediately unless you verify your account
+within the next 24 hours. Act now to avoid losing access!
+
+Please click here to confirm your identity:
+http://amaz0n-secure-account-verify.bit.ly/update?user=8812
+
+You will need to enter your:
+- Password
+- Credit card number
+- Bank account details
+- Social Security Number (SSN)
+
+Failure to update your billing information will result in legal action
+and your account will remain suspended permanently.
+
+We have also detected that someone from an unknown location has
+attempted to log in. For your protection, please verify your payment
+details within 24 hours to reactivate your account.
+
+Amazon Customer Service Team
